@@ -1,4 +1,24 @@
 # Pytutos
 Some python tutorials 
+#Python Tutorials
+##Getting Started
 
-## First edit
+
+- Running Python Interpreter
+- Running Python Scripts
+- Assignments
+- Numbers
+- Strings
+- Functions
+- Conditional Expressions
+- Lists
+- Modules
+- Working with Data
+
+- Lists
+- Tuples
+- Sets
+- Strings
+- Working With Files
+- List Comprehensions
+- Dictionaries
